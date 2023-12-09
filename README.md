@@ -1,5 +1,5 @@
 # Praktikum 8
-## Latihan
+## OOP (Object Oriented Programming)
 ![gambar](dokumentasi/class.png)
 ## Output
 ### tambah data
