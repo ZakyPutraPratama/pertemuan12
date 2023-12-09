@@ -1,5 +1,5 @@
 # Praktikum 8
-## Praktikum
+## Latihan
 ![gambar](dokumentasi/class.png)
 ## Output
 ### tambah data
